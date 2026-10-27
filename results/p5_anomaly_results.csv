@@ -1,0 +1,4 @@
+methode,AUROC
+AE simple (P3),0.615
+VAE - reconstruction,0.663
+VAE - ELBO,0.678

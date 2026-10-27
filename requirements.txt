@@ -1,0 +1,12 @@
+torch>=2.0            # cœur
+torchvision>=0.15     # backbones pré-entraînés, transforms
+torchinfo             # résumé des modèles (dimensions, paramètres)
+kagglehub             # téléchargement du dataset PlantVillage
+imagehash             # perceptual hash pour la déduplication anti-fuite
+scikit-learn          # métriques, AUROC, split stratifié
+pandas                # split.csv et tableaux de résultats
+numpy
+matplotlib            # courbes
+seaborn               # matrices de confusion
+pillow                # ouverture des images
+tqdm                  # barres de progression

@@ -1,0 +1,7 @@
+modele,params_M,taille_Mo,lat_CPU_ms,lat_GPU_ms,acc,f1_macro
+MobileNetV2 - (c) fine-tune complet (lr diff.),2.24,8.9,13.9,5.1,0.9912,0.9916
+MobileNetV2 - (b) fine-tune dern. couches,2.24,8.9,13.7,5.13,0.9879,0.9853
+"CNN-Res (128px, scratch)",1.19,4.8,15.4,1.55,0.975,0.973
+"CNN-Plain (128px, scratch)",1.39,5.6,14.1,1.28,0.96,0.952
+MobileNetV2 - (a) extraction,2.24,8.9,14.0,5.16,0.9287,0.9158
+ResNet-50 - (a) extraction,23.53,94.1,64.2,5.39,0.9187,0.9039

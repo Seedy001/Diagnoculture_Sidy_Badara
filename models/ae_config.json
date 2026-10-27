@@ -1,0 +1,1 @@
+{"best_name": "k64_dn", "k": 64, "denoising": true, "noise_std": 0.1, "seuil_p95": 0.011146215721964836, "auroc_test": 0.6145647898382295}

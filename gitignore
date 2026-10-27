@@ -1,0 +1,23 @@
+# === Données (non versionnées, cf. README) ===
+# Dataset PlantVillage téléchargé via kagglehub + photos OOD volumineuses
+data/
+
+# === Poids des modèles (lourds, régénérés par les notebooks) ===
+*.pt
+*.pth
+
+# === Caches Python / Jupyter ===
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# === Environnements virtuels ===
+.venv/
+venv/
+env/
+
+# === Système / éditeurs ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

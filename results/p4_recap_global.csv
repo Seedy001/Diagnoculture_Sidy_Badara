@@ -1,0 +1,4 @@
+methode,AUROC,rejet_M,rejet_OOD_proche,rejet_OOD_lointain,rejet_connu_FRR,acc_connu_accepte
+MSP,0.944,0.681,0.777,0.927,0.046,0.999
+AE,0.562,0.119,0.193,0.439,0.047,0.995
+Hybride,0.944,0.67,0.8,0.927,0.046,0.999
