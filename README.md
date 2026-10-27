@@ -1,7 +1,7 @@
 # DiagnoCulture
 
 Diagnostic des maladies foliaires de la tomate (PlantVillage, 10 classes).
-Projet de fin de module — Apprentissage profond (1ADA2301), UAM / Polytech Diamniadio.
+Projet de fin de module — Apprentissage profond, UAM / Polytech Diamniadio.
 
 ## Données
 - PlantVillage, sous-ensemble Tomate (10 classes : 9 maladies + saine).
